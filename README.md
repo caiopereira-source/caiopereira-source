@@ -43,5 +43,7 @@
 ###
 
 <p align="left"><a href="https://instagram.com/__caio__.py">Instagram</a></p>
+<p align="left"><a href="https://linkedin.com/caiopereira-source">LinkedIn</a></p>
+<p align="left">caiopereira-source@proton.me</p>
 
 ###
