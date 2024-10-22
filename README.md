@@ -1,4 +1,6 @@
-<img align="right" style="z-index: 1" height="250" src="https://i.imgflip.com/522y4f.jpg"  />
+<br clear="both">
+
+<img align="right" height="250" src="https://i.imgflip.com/522y4f.jpg"  />
 
 ###
 
@@ -41,7 +43,6 @@
 <h2 align="left">Find me</h2>
 
 ###
-
 <p align="left"><a href="https://instagram.com/__caio__.py">Instagram</a></p>
 <p align="left"><a href="https://linkedin.com/caiopereira-source">LinkedIn</a></p>
 <p align="left">caiopereira-source@proton.me</p>
