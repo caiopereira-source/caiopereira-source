@@ -42,11 +42,20 @@
 
 ###
 
-<h2 align="left">Find me</h2>
+<h1 align="center">Find me</h1>
 
 ###
-<p align="left"><a href="https://instagram.com/__caio__.py">Instagram</a></p>
-<p align="left"><a href="https://linkedin.com/caiopereira-source">LinkedIn</a></p>
-<p align="left">caiopereira-source@proton.me</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/caiopereira-source/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/__caio__.py/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="instagram logo"  />
+  </a>
+  <a href="mailto:caiopereira-source@proton.me" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Protonmail&logo=gmail&label=&color=8a90c7&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
