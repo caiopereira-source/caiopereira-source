@@ -1,6 +1,4 @@
-<br clear="both">
-
-<img align="right" height="250" src="https://i.imgflip.com/522y4f.jpg"  />
+<img align="left" height="250" src="https://i.imgflip.com/522y4f.jpg"  />
 
 ###
 
