@@ -1,4 +1,8 @@
-<img align="left" height="250" src="https://i.imgflip.com/522y4f.jpg"  />
+<br clear="both">
+
+<div align="left">
+  <img height="250" src="https://i.imgflip.com/522y4f.jpg"  />
+</div>
 
 ###
 
