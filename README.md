@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hi, I'm Caio and I'm a Backend Developer!<br>🐻 I love Python, Linux and bears!</p>
+<p align="left">Hi, I'm Caio and I'm a Backend Developer!<br>🐻 I like Python, Linux and bears!</p>
 
 ###
 
